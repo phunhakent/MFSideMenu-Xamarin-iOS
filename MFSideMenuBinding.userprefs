@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3DE39F7F-9DDB-47A2-B37A-DBFBCFC63408}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MFSideMenuBinding" expanded="True">
+            <Node name="MFSideMenuBinding" expanded="True">
+              <Node name="ApiDefinition.cs" selected="True" />
+              <Node name="libMFSideMenu.a" expanded="True" />
+            </Node>
+            <Node name="MFSideMenuBinding.Sample" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MFSideMenuBinding.Sample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AF2BC98E-BF37-46C8-89EA-51753C32F993" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kentnguyen/Documents/xcode/MFSideMenuBinding/MFSideMenuBinding.Sample/ContentViewController.cs" relfile="MFSideMenuBinding.Sample/ContentViewController.cs" line="23" column="74" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

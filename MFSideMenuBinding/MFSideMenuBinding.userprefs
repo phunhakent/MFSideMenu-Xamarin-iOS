@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3DE39F7F-9DDB-47A2-B37A-DBFBCFC63408}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MFSideMenuBinding.Sample/AppDelegate.cs">
+    <Files>
+      <File FileName="MFSideMenuBinding.Sample/AppDelegate.cs" Line="27" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.MFSideMenuBinding.Sample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1C32B28A-78F2-4207-8DB4-3A300E442CAC" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
